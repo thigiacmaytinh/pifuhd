@@ -1,4 +1,4 @@
-# [PIFuHD: chuyển ảnh 2D sang 3D bằng Deep Learning)
+# PIFuHD: chuyển ảnh 2D sang 3D bằng Deep Learning
 
 Project này fork từ https://github.com/facebookresearch/pifuhd và có 1 số sửa đổi như sau để chạy được trên windows:
 
