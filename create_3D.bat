@@ -1,0 +1,1 @@
+python -m apps.simple_test --use_rect --resolution 512
